@@ -1,0 +1,10 @@
+build*/
+playable*/
+dist/
+.vs/
+.vscode/
+imgui.ini
+*.log
+*.tmp
+Thumbs.db
+.DS_Store

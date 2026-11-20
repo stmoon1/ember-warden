@@ -1,0 +1,603 @@
+Voxel Citadel - Breach Protocol	像素堡垒 · 破晓防线	ピクセル砦・ブリーチプロトコル
+VOXEL CITADEL // BREACH PROTOCOL	像素堡垒 · 破晓防线	ピクセル砦・ブリーチプロトコル
+BREACH PROTOCOL	破晓防线	ブリーチプロトコル
+CITADEL // SUPPLY TERMINAL	堡垒补给商店	砦の補給所
+Language	游戏语言	言語
+Weapons & ammunition	武器与弹药	武器と弾薬
+Tower blueprints	防御塔蓝图	タワー設計図
+Installed towers	已建防御塔	設置済みタワー
+Run upgrades	本局强化	今回の強化
+Set bonuses	套装奖励	セット効果
+Weapon	武器	武器
+Damage	伤害	ダメージ
+Rate / sec	每秒攻速	攻撃回数／秒
+Magazine	弹夹	装弾数
+Range	射程	射程
+Purchase / equip	购买／装备	購入／装備
+Equipped	已装备	装備中
+Equip	装备	装備
+Buy	购买	購入
+Ammo +	弹药 +	弾薬 +
+Buy blueprint / 	购买蓝图／	設計図を購入／
+Selected	已选中	選択中
+Select	选择	選択
+Upgrade / 	升级／	強化／
+Repair 50% / 20	维修 50%／20 金币	50% 修理／20 コイン
+Medkit +50 HP / 35 credits	医疗包：恢复 50 生命／35 金币	医療キット：HP +50／35 コイン
+%d CREDITS	金币：%d	コイン：%d
+Wave %d | TAB returns to combat	第 %d 波｜Tab 返回战场	ウェーブ %d｜Tab で戦闘に戻る
+Simulation paused. Purchased towers become blueprints. Close the shop, aim at grass and press E to deploy.	战斗已暂停。购买蓝图后关闭商店，瞄准草地按 E 建造。	戦闘は一時停止中です。設計図を購入し、店を閉じて草地に照準を合わせ、E で設置します。
+New guns include a loaded magazine and three spare magazines. Melee weapons use no ammunition. Bat and katana cleave. Sniper deals precise, heavy damage.	购买枪械附赠满弹夹和三份备用弹夹。近战不消耗弹药，球棒与太刀可横扫多个敌人。	銃には満タンの弾倉と予備弾倉３個が付属します。近接武器は弾薬不要で、バットと刀は複数の敵を攻撃します。
+%s | HP %.0f | Damage %.0f | Range %.1fm	%s｜生命 %.0f｜伤害 %.0f｜范围 %.1f 米	%s｜HP %.0f｜ダメージ %.0f｜範囲 %.1fm
+Produces %d credits after every cleared wave	每次清波获得 %d 金币	ウェーブ突破ごとに %d コインを獲得
+In inventory %d	库存：%d	所持数：%d
+Level 2 costs 75%% of base price, level 3 costs 125%%. Each level adds 50%% base HP, damage or income, 10%% range. Relays gain +10 percentage points of aura per level.	二级花费基础价格的 75%%，三级花费 125%%。每级增加 50%% 基础生命、伤害或产出，以及 10%% 基础范围。中继塔每级额外增加 10 个百分点光环。	レベル２は基本価格の 75%%、レベル３は 125%%。各レベルで基本HP・ダメージ・収入が 50%%、範囲が 10%% 増加。中継塔のオーラは各段階 +10 ポイント。
+%s L%d [%.0f, %.0f] HP %.0f / %.0f	%s %d 级［%.0f，%.0f］生命 %.0f／%.0f	%s Lv%d［%.0f, %.0f］HP %.0f／%.0f
+Collect different augments in a set. Bonuses at 2, 4 and 6 pieces are cumulative. An augment may belong to more than one set.	收集不同强化，在 2／4／6 件时激活累加奖励。同一强化可推进多个套装。	異なる強化を集めると、２・４・６個で効果が累積発動します。１つの強化が複数セットに属する場合もあります。
+ of 8	／8 件	／8 個
+%d-piece %s	%d 件：%s	%d 個：%s
+ACTIVE	已激活	発動中
+locked	未激活	未発動
+%s  %d -> %d	%s：%d → %d 件	%s：%d → %d 個
+Activates %d-piece bonus	激活 %d 件套装奖励	%d 個のセット効果が発動
+Next bonus: %d pieces	下一档：%d 件	次の効果：%d 個
+WAVE CLEARED // SELECT ONE UPGRADE	清波奖励 · 三选一强化	突破報酬・強化を１つ選択
+Wave %d survived. One upgrade becomes permanent for this run.	已通过第 %d 波，选择一项强化，本局持续生效。	ウェーブ %d 突破。今回の戦闘で有効な強化を１つ選んでください。
+%d unseen augments remaining	尚未选择的强化：%d 项	未取得の強化：%d 個
+Every augment has been collected. Your full build and set bonuses remain active.	本阶段没有可选强化。已获得的强化与套装奖励继续生效。	現在選べる強化はありません。取得済み強化とセット効果は引き続き有効です。
+Continue to next wave	继续下一波	次のウェーブへ
+Acquire	获取强化	取得する
+Reroll / 	刷新／剩余 	再抽選／残り 
+ remaining	 次	 回
+RELOADING	装填中	リロード中
+HP %.0f / %.0f | Core %d / 20	生命 %.0f／%.0f｜核心 %d／20	HP %.0f／%.0f｜コア %d／20
+Shield %.0f	护盾 %.0f	シールド %.0f
+AMMO %d / %d %s	弹药 %d／%d %s	弾薬 %d／%d %s
+Prepare %.0fs | SPACE starts wave	准备 %.0f 秒｜空格提前开始	準備 %.0f 秒｜Space で開始
+Enemies %zu | Spawned %d / %d	场上敌人 %zu｜本波已生成 %d／%d	敵 %zu｜出現 %d／%d
+%s | Blueprints %d	%s｜蓝图 %d	%s｜設計図 %d
+TAB shop   LMB attack   R reload   1-7 weapons   E build   B preview   U upgrade   P pause	Tab 商店　左键攻击　R 装填　1–7 武器　E 建造　B 预览　U 升级　P 暂停	Tab 店　左クリック 攻撃　R リロード　1–7 武器　E 設置　B プレビュー　U 強化　P 一時停止
+Mouse look   WASD move   SHIFT sprint   F5 new run   ESC quit	鼠标转向　WASD 移动　Shift 冲刺　F5 重开　Esc 退出	マウス 視点　WASD 移動　Shift ダッシュ　F5 最初から　Esc 終了
+RUN ENDED | %d waves cleared | %d kills	本局结束｜通过 %d 波｜击杀 %d	戦闘終了｜突破 %d 波｜撃破 %d
+New run	重新开始	最初から
+Resume	继续游戏	再開
+Hold the core against a growing siege. Start with a knife, earn your arsenal, construct defences and combine elemental upgrades. Every fifth wave brings a boss.	从一把小刀开始，赚取金币、购买武器、构筑塔防与强化套装。每五波迎战首领，坚持通过全部 50 波。	ナイフ１本から始め、武器とタワーを購入し、強化セットを組み合わせます。５ウェーブごとにボスが出現。全50ウェーブを突破しましょう。
+Ruined grasslands	遗迹草原	遺跡の草原
+Split canyon	裂谷遗城	裂谷の廃城
+Begin run	选择角色	キャラクター選択
+Mouse sensitivity	鼠标灵敏度	マウス感度
+Pixel scale	像素颗粒大小	ピクセル倍率
+Material detail	材质细节	材質の細かさ
+Bloom	发光强度	発光の強さ
+Screen shake	镜头震动	画面の揺れ
+Volume	音量	音量
+Lighting and shadows	光照与阴影	ライティングと影
+Damage numbers	伤害数字	ダメージ表示
+Character selection	角色选择	キャラクター選択
+Warden	守望者	守り手
+Balanced fighter. Starts with 100 HP, a knife and no credits.	均衡型战士。初始 100 生命、一把小刀、0 金币。	バランス型。初期HP100、ナイフ１本、所持コイン０。
+Available	可使用	使用可能
+Coming soon	敬请期待	近日登場
+More characters	其他角色	追加キャラクター
+More survivors will join the citadel in future updates.	更多角色将在后续更新中加入堡垒。	今後のアップデートで新たな仲間が登場予定です。
+Enter battlefield	进入战场	戦場へ
+Back	返回	戻る
+Victory / all 50 waves cleared	通关成功 · 全部 50 波已完成	勝利・全50ウェーブ突破
+Select character and play again	选择角色，再来一局	キャラクターを選んでもう一度
+Bronze	铜色 · 基础强化	銅・基本強化
+Silver	银色 · 进阶强化	銀・上級強化
+Gold	金色 · 核心强化	金・核心強化
+Base odds: Bronze 60% / Silver 30% / Gold 10%.	普通波基础概率：铜 60%／银 30%／金 10%。	通常時の基本確率：銅60%／銀30%／金10%。
+Boss reward: three distinct GOLD augments.	首领奖励：三项不同的金色强化，任选其一。	ボス報酬：異なる金強化３つから１つ選択。
+Final boss defeated. Choose your last augment to claim victory.	最终首领已击败，领取最后一项强化后通关。	最終ボスを撃破。最後の強化を取得するとクリアです。
+WAVE %02d / 50 %s | %d CREDITS	第 %02d／50 波 %s｜金币 %d	ウェーブ %02d／50 %s｜コイン %d
+BOSS	首领	ボス
+Knife	小刀	ナイフ
+Rifle	步枪	ライフル
+Machine gun	机枪	マシンガン
+Sniper	狙击枪	スナイパーライフル
+Shotgun	霰弹枪	ショットガン
+Baseball bat	棒球棒	バット
+Katana	太刀	刀
+Cannon	炮塔	砲塔
+Cryo turret	冰冻塔	冷却タワー
+Relay	中继塔	中継塔
+Extractor	采集塔	採掘機
+Bulwark	壁垒	防壁
+Tesla	特斯拉塔	テスラタワー
+Attack / single target	攻击类：单体伤害	攻撃型：単体攻撃
+Attack / slow	攻击类：减速冻结	攻撃型：冷却
+Attack / chain lightning	攻击类：连锁闪电	攻撃型：連鎖雷撃
+Buff / +20% damage and attack speed	增益类：伤害与攻速 +20%	支援型：ダメージと攻撃速度 +20%
+Economy / income each cleared wave	经济类：每次清波产出	経済型：突破ごとに収入
+Defence / taunts, contact damage	防御类：嘲讽与接触反击	防御型：挑発と接触反撃
+Knife only. Two strikes per grunt. TAB supplies / SPACE incoming.	开局只有小刀，两刀击杀普通敌人。Tab 商店，空格开始。	ナイフのみで開始。通常敵は２回で撃破。Tab で店、Space で開始。
+Blueprint secured. Aim at grass and press E.	蓝图已购买，瞄准草地按 E 建造。	設計図を購入しました。草地に照準を合わせて E で設置。
+Tower ascended.	防御塔升级成功。	タワーを強化しました。
+Defence online.	防御塔已部署。	タワーを設置しました。
+Deploy after choosing an upgrade.	选择强化后再部署防御塔。	強化を選択してから設置してください。
+Find clear mossy ground.	请寻找空旷的草地。	空いている草地を選んでください。
+Buy a blueprint in TAB supplies.	按 Tab 打开商店购买蓝图。	Tab の店で設計図を購入してください。
+Tile occupied.	该位置已被占用。	この場所は使用中です。
+Step back to deploy.	请后退一点再部署。	少し離れてから設置してください。
+Augment installed. TAB supplies / SPACE next wave.	强化已生效。Tab 商店，空格开始下一波。	強化を取得しました。Tab で店、Space で次のウェーブ。
+No augments available. Proceed to the next wave.	当前无可选强化，继续下一波。	選択可能な強化がありません。次のウェーブへ進みます。
+All 50 waves cleared. Victory!	全部 50 波已通过，通关成功！	全50ウェーブ突破。勝利！
+Sector secured. Select one augment.	防线已守住，请选择一项强化。	防衛成功。強化を１つ選んでください。
+SIEGE PULSE! Keep your distance.	攻城首领释放脉冲，请保持距离！	攻城ボスの衝撃波！距離を取りましょう。
+Defence breached. F5 begins a new expedition.	防线失守。按 F5 开始新一局。	防衛失敗。F5 で最初から。
+Aim at grass within 7m. Buy blueprints with TAB.	瞄准 7 米内的草地，按 Tab 购买蓝图。	７m以内の草地を狙ってください。Tab で設計図を購入。
+pc activated	件套装已激活	個セット発動
+
+Ballistics	弹道学	弾道学
+Ranged weapon damage +20% (additive).	远程武器伤害 +20%。	遠距離武器のダメージ +20%。
+Blade mastery	刀锋精通	刃の心得
+Melee damage +25%, reach +0.25m.	近战伤害 +25%，攻击距离 +0.25 米。	近接ダメージ +25%、射程 +0.25m。
+Engineering	工程学	工学
+All tower damage +20%.	所有防御塔伤害 +20%。	全タワーのダメージ +20%。
+Vitality	强健体魄	頑健
+Max health +25, heal 40.	最大生命 +25，并恢复 40 生命。	最大HP +25、HPを40回復。
+Quick hands	快手	早業
+Attack speed +12%, reload speed +15%.	攻速 +12%，装填速度 +15%。	攻撃速度 +12%、リロード速度 +15%。
+Bounty hunter	赏金猎人	賞金稼ぎ
+Kill income +20%.	击杀金币收入 +20%。	撃破時のコイン収入 +20%。
+Reactive armor	反应装甲	反応装甲
+All towers reflect 40% of incoming damage.	所有塔反弹所受伤害的 40%。	全タワーが被ダメージの40%を反射。
+Overclock	超频中继	オーバークロック
+Relay damage bonus +10%, fire rate bonus +10%.	中继塔额外增加 10 个百分点的伤害与攻速光环。	中継塔のダメージ・攻撃速度オーラ +10ポイント。
+Whirlwind	旋风斩	旋風斬
+All melee weapons cleave every enemy in their arc.	所有近战武器可同时攻击扇形内的全部敌人。	全近接武器が扇形範囲内の全敵を攻撃。
+Ricochet	弹射	跳弾
+Gun hits bounce to another enemy within 4m for 35% damage.	枪击命中后弹射至 4 米内另一敌人，造成 35% 伤害。	銃弾が４m以内の別の敵に跳ね、35%のダメージ。
+Blood drinker	饮血	吸血
+Melee hits heal 2 HP.	近战每次命中恢复 2 生命。	近接命中ごとにHPを２回復。
+Cryo rounds	冰霜弹药	冷却弾
+Weapon hits chill. Repeated chill freezes, bosses resist.	武器命中施加寒冷，累计寒冷可冻结敌人，首领抗性更高。	武器命中で冷却。蓄積すると凍結し、ボスは早く解除。
+Incendiary	燃烧弹药	焼夷弾
+Weapons ignite for 6 DPS for 3s.	武器点燃敌人，每秒造成 6 伤害，持续 3 秒。	武器で点火し、３秒間毎秒６ダメージ。
+Venom	毒刃毒弹	毒の刃と弾丸
+Weapons poison, stacking to 8, each stack deals 2 DPS.	武器施加最多 8 层毒，每层每秒造成 2 伤害。	武器が最大８スタックの毒を付与。１スタック毎秒２ダメージ。
+Serrated edge	锯齿刀锋	鋸刃
+Melee applies bleeding, 8 DPS for 4s.	近战附加流血，每秒造成 8 伤害，持续 4 秒。	近接攻撃で出血を付与し、４秒間毎秒８ダメージ。
+Static charge	静电充能	静電チャージ
+Weapon hits arc for 8 damage within 4m.	武器命中后向 4 米内敌人释放 8 伤害电弧。	武器命中で４m以内の敵に８ダメージの電撃。
+Armor piercing	穿甲贯穿	徹甲貫通
+Guns pierce one more enemy, ignore armor.	枪弹额外贯穿一个敌人，并无视装甲减伤。	銃弾が追加で１体を貫通し、装甲軽減を無視。
+Furnace turrets	熔炉炮塔	炉心タワー
+Tower hits ignite for 6 DPS.	塔的命中点燃敌人，每秒造成 6 伤害。	タワー命中で点火し、毎秒６ダメージ。
+Glacial network	冰河网络	氷河ネットワーク
+All attacking towers chill on hit.	所有攻击塔命中时施加寒冷。	全攻撃タワーの命中で冷却を付与。
+Toxic industry	毒化工业	有毒産業
+Tower hits apply stacking poison.	塔的命中施加可叠层的毒。	タワー命中で蓄積する毒を付与。
+Storm grid	风暴电网	嵐の電網
+All attacking towers chain lightning.	所有攻击塔都能释放连锁闪电。	全攻撃タワーが連鎖雷撃を放つ。
+Conductive ice	导电冰层	伝導する氷
+Lightning deals +60% damage to chilled targets.	闪电对寒冷敌人的伤害 +60%。	冷却中の敵への雷撃ダメージ +60%。
+Shatter	碎冰	粉砕氷
+Frozen targets take +50% direct damage.	冻结敌人受到的直接伤害 +50%。	凍結中の敵が受ける直接ダメージ +50%。
+Thermal shock	冷热冲击	熱衝撃
+Fire + chill consumes both, 30 AoE damage.	燃烧与寒冷同时存在时消耗两者，引发 30 伤害的范围爆炸。	炎上と冷却を消費し、30ダメージの範囲爆発。
+Compound interest	复利生产	複利生産
+Extractors produce +15 credits per wave.	采集塔每波额外产出 15 金币。	採掘機のウェーブ収入 +15コイン。
+Repair crews	维修队	修理班
+All towers restore 20% max HP after each wave.	清波后所有塔恢复最大生命的 20%。	ウェーブ突破時、全タワーが最大HPの20%を回復。
+Executioner	处决者	処刑人
+Sniper hits below 30% HP execute non-boss enemies.	狙击命中生命低于 30% 的普通敌人时直接处决。	HP30%未満の通常敵にスナイパーを当てると処刑。
+Field hospital	战地医院	野戦病院
+Relay aura heals player 3 HP/s.	玩家在中继光环内每秒恢复 3 生命。	中継オーラ内でプレイヤーが毎秒HP３回復。
+Steady aim	稳定瞄准	安定照準
+Gun spread -25%.	枪械散布 -25%。	銃の拡散 -25%。
+Long barrel	加长枪管	延長銃身
+Gun range +30%.	枪械射程 +30%。	銃の射程 +30%。
+Expanded magazines	扩容弹夹	拡張弾倉
+Gun magazine capacity +30%.	枪械弹夹容量 +30%。	銃の装弾数 +30%。
+Speed loader	快速装填	高速装填
+Reload speed +25%.	装填速度 +25%。	リロード速度 +25%。
+Critical eye	弱点洞察	弱点看破
+Critical chance +10 percentage points.	暴击率增加 10 个百分点。	会心率 +10ポイント。
+Deadly focus	致命专注	致命の集中
+Critical damage +50 percentage points.	暴击伤害倍率增加 50 个百分点。	会心ダメージ倍率 +50ポイント。
+Rifle discipline	步枪训练	ライフル訓練
+Rifle damage +30%.	步枪伤害 +30%。	ライフルのダメージ +30%。
+Triple cadence	三拍连射	三拍射撃
+Every third rifle shot gains +80% damage.	步枪每第三次射击的伤害 +80%。	ライフルの３発ごとのダメージ +80%。
+Drill rounds	钻头弹药	ドリル弾
+Rifle shots penetrate one extra enemy.	步枪额外贯穿一个敌人。	ライフルが追加で１体を貫通。
+Belt feeder	弹链供给	ベルト給弾
+Machine gun magazine +50%.	机枪弹夹容量 +50%。	マシンガンの装弾数 +50%。
+Spinning fury	旋转狂潮	回転の猛威
+Machine gun fire rate ramps up to +40% while firing.	持续开火时，机枪逐渐获得最高 +40% 攻速。	連射を続けるとマシンガンの攻撃速度が最大 +40%。
+Lead storm	铅弹风暴	鉛の嵐
+Every eighth machine gun shot launches an explosive hit.	机枪每第八次射击附带爆炸命中。	マシンガンの８発ごとに爆発ダメージ。
+Patient hunter	耐心猎手	忍耐の狩人
+Sniper critical chance +25 percentage points.	狙击枪暴击率增加 25 个百分点。	スナイパーの会心率 +25ポイント。
+Rail lance	磁轨长枪	レールランス
+Sniper penetrates three extra targets.	狙击枪额外贯穿三个敌人。	スナイパーが追加で３体を貫通。
+Giant slayer	巨兽猎手	巨獣狩り
+Sniper damage against bosses +60%.	狙击枪对首领的伤害 +60%。	スナイパーのボスへのダメージ +60%。
+Focused choke	收束喉口	収束チョーク
+Shotgun spread -40%, range +4m.	霰弹散布 -40%，射程 +4 米。	ショットガンの拡散 -40%、射程 +４m。
+Flechette cloud	箭矢弹云	フレシェット雲
+Shotgun fires three extra pellets.	霰弹枪每次射击多发射三颗弹丸。	ショットガンの散弾数 +３。
+Breaching shot	破门冲击	突破射撃
+Shotgun impacts have +1.5m knockback.	霰弹命中的击退距离 +1.5 米。	ショットガンのノックバック +1.5m。
+Stiletto	短刃精准	短剣の精度
+Knife critical chance +25 percentage points.	小刀暴击率增加 25 个百分点。	ナイフの会心率 +25ポイント。
+Knife dance	小刀之舞	ナイフダンス
+Knife attack speed +35%.	小刀攻速 +35%。	ナイフの攻撃速度 +35%。
+Grand slam	全垒重击	グランドスラム
+Bat damage +50%, knockback +1m.	球棒伤害 +50%，击退距离 +1 米。	バットのダメージ +50%、ノックバック +１m。
+Groundbreaker	裂地重击	地砕き
+Bat swings deal 18 damage in a 4m frontal wave.	球棒挥击向前方 4 米释放 18 伤害冲击波。	バットが前方４mに18ダメージの衝撃波を放つ。
+Silver flurry	银刃连舞	銀刃の連舞
+Katana attack speed +30%.	太刀攻速 +30%。	刀の攻撃速度 +30%。
+Draw cut	居合拔刀	抜刀斬り
+First katana hit after switching deals +150% damage.	切换到太刀后的第一次命中伤害 +150%。	刀に持ち替えた直後の最初の命中ダメージ +150%。
+Lunging edge	突进刀锋	踏み込みの刃
+Melee reach +0.8m.	近战攻击距离 +0.8 米。	近接射程 +0.8m。
+Rhythm blade	节奏刀舞	律動の刃
+Consecutive melee hits build up to +60% damage.	连续近战命中逐渐获得最高 +60% 伤害。	近接連続命中でダメージが最大 +60%。
+Bladed fortune	刀锋幸运	刃の幸運
+Melee critical damage +75 percentage points.	近战暴击伤害倍率增加 75 个百分点。	近接の会心ダメージ倍率 +75ポイント。
+Concussive edges	震荡刀锋	衝撃の刃
+Melee knockback +1m.	近战击退距离 +1 米。	近接のノックバック +１m。
+Untouched	毫发无伤	無傷
+Deal +30% damage at full health.	满生命时造成的伤害 +30%。	HP満タン時のダメージ +30%。
+Last stand	背水一战	背水の陣
+Deal +60% damage below 35% health.	生命低于 35% 时造成的伤害 +60%。	HP35%未満でダメージ +60%。
+Point blank	近距射击	至近射撃
+Deal +35% gun damage within 5m.	5 米以内的枪械伤害 +35%。	５m以内の銃ダメージ +35%。
+Eagle range	鹰眼射程	鷹の間合い
+Deal +40% gun damage beyond 12m.	12 米以外的枪械伤害 +40%。	12mより遠い敵への銃ダメージ +40%。
+First blood	先发制人	先制攻撃
+Deal +35% damage to full-health enemies.	对满生命敌人的伤害 +35%。	HP満タンの敵へのダメージ +35%。
+Merciless	冷酷终结	無慈悲
+Deal +40% damage to enemies below 30% health.	对生命低于 30% 敌人的伤害 +40%。	HP30%未満の敵へのダメージ +40%。
+Trophy hunter	战利猎手	戦利品狩り
+All damage against bosses +25%.	对首领造成的所有伤害 +25%。	ボスへの全ダメージ +25%。
+Crowd hunter	群敌猎手	群れの狩人
+Deal +20% damage when 8 or more enemies are alive.	场上至少有 8 个敌人时，伤害 +20%。	敵が８体以上いるとダメージ +20%。
+Glass reactor	玻璃反应堆	ガラスの炉心
+All damage +45%, incoming player damage +20%.	所有伤害 +45%，玩家受到的伤害 +20%。	全ダメージ +45%、プレイヤーの被ダメージ +20%。
+Heavy rounds	重型弹药	重い弾丸
+Gun damage +35%, attack rate -12%.	枪械伤害 +35%，攻速 -12%。	銃ダメージ +35%、攻撃速度 -12%。
+Echo chamber	回声弹膛	反響薬室
+Every fifth gun shot repeats its pellets for free.	每第五次枪击额外重复一轮弹丸，不消耗弹药。	銃の５発ごとに弾丸を無料で１回追加発射。
+Lucky chamber	幸运弹膛	幸運の薬室
+20% chance a gun attack consumes no ammunition.	每次枪击有 20% 概率不消耗弹药。	20%の確率で銃撃が弾薬を消費しない。
+Scavenged rounds	回收弹药	弾薬回収
+Weapon kills restore two rounds to the active magazine.	武器击杀为当前弹夹恢复两发弹药。	武器で撃破すると現在の弾倉に２発補充。
+Reload discharge	装填放电	装填放電
+Completing a reload shocks enemies within 5m for 25 damage.	完成装填时，对 5 米内敌人造成 25 电击伤害。	リロード完了時、５m以内の敵に25電撃ダメージ。
+Final cartridge	最后一弹	最後の一発
+Last bullet in a magazine deals +120% damage.	弹夹内最后一发弹药的伤害 +120%。	弾倉の最後の１発のダメージ +120%。
+Opening salvo	开场齐射	開幕斉射
+First bullet of a full magazine deals +60% damage.	满弹夹的第一发弹药伤害 +60%。	満タンの弾倉の最初の１発のダメージ +60%。
+Skirmisher	游击射手	遊撃手
+Gun attack rate +15% while moving.	移动时枪械攻速 +15%。	移動中の銃の攻撃速度 +15%。
+Entrenched	固守阵地	塹壕戦
+Gun damage +25% while stationary.	静止时枪械伤害 +25%。	静止中の銃ダメージ +25%。
+Fleet feet	轻捷步伐	軽やかな足
+Movement speed +12%.	移动速度 +12%。	移動速度 +12%。
+Plated coat	装甲外套	装甲コート
+Incoming player damage -15%, capped at 70%.	玩家所受伤害 -15%，总减伤上限 70%。	被ダメージ -15%。合計軽減上限70%。
+Second wind	重整旗鼓	再起
+Regenerate 1 HP/s after 4 seconds without damage.	4 秒未受伤后，每秒恢复 1 生命。	４秒間被弾しないと毎秒HP１回復。
+Soul collector	灵魂收集	魂の収集
+Every kill heals 1 HP.	每次击杀恢复 1 生命。	撃破ごとにHP１回復。
+Wave barrier	波次屏障	ウェーブ障壁
+Gain 20 shield at the beginning of each wave.	每波开始时获得 20 护盾。	各ウェーブ開始時にシールド20を獲得。
+Emergency protocol	应急协议	緊急プロトコル
+Once per wave, lethal damage instead restores 35 HP.	每波一次，受到致命伤害时改为恢复 35 生命。	各ウェーブ１回、致命傷を受ける代わりにHP35へ回復。
+Phase weave	相位编织	位相織り
+10% chance to evade incoming player damage.	有 10% 概率闪避玩家受到的伤害。	10%の確率で被ダメージを回避。
+Pain pulse	痛苦脉冲	苦痛の波動
+Taking damage deals 12 damage to enemies within 3m.	受伤时对 3 米内敌人造成 12 伤害。	被弾時に３m以内の敵へ12ダメージ。
+Reserve cache	储备补给	予備補給
+Ammo packs contain 50% more ammunition.	弹药包提供的弹药量 +50%。	弾薬パックの弾薬量 +50%。
+Supply contract	补给合同	補給契約
+Weapon and ammunition prices -15%, capped at 50%.	武器与弹药价格 -15%，折扣上限 50%。	武器と弾薬の価格 -15%。割引上限50%。
+Builder contract	建造合同	建築契約
+Tower blueprints cost -15%, capped at 50%.	防御塔蓝图价格 -15%，折扣上限 50%。	タワー設計図の価格 -15%。割引上限50%。
+Hazard pay	危险津贴	危険手当
+Wave-clear reward +25%.	清波奖励 +25%。	ウェーブ突破報酬 +25%。
+Savings account	储蓄账户	貯蓄口座
+Earn 5% of banked credits at wave clear, maximum 60.	清波时获得现有金币的 5%，本项基础上限 60 金币。	突破時に所持コインの５%を獲得。この強化の基本上限60。
+Boss bounty	首领赏金	ボス賞金
+Boss kill reward +80 credits.	击杀首领额外获得 80 金币。	ボス撃破時の報酬 +80コイン。
+Reinforced frames	加固框架	強化フレーム
+New and existing towers gain +30% maximum health.	已有与新建防御塔的最大生命 +30%。	既存・新設の全タワーの最大HP +30%。
+Clockwork engine	钟表引擎	時計仕掛け
+Attacking towers fire 20% faster.	攻击塔攻速 +20%。	攻撃タワーの攻撃速度 +20%。
+Surveyor optics	测绘光学	測量光学
+Tower attack range +20%.	防御塔攻击范围 +20%。	タワーの攻撃範囲 +20%。
+Precision servos	精准伺服	精密サーボ
+Towers gain 15% critical chance.	防御塔暴击率增加 15 个百分点。	タワーの会心率 +15ポイント。
+Automated salvage	自动回收	自動回収
+Tower kills award +5 credits.	防御塔击杀额外获得 5 金币。	タワーによる撃破報酬 +５コイン。
+Cluster shells	集束炮弹	クラスター弾
+Cannon hits splash for 40% damage within 2.5m.	炮塔命中对 2.5 米内敌人附带 40% 范围伤害。	砲塔が命中地点の2.5m以内に40%の範囲ダメージ。
+Siege rounds	攻城炮弹	攻城弾
+Cannon damage +50%, rate -15%.	炮塔伤害 +50%，攻速 -15%。	砲塔のダメージ +50%、攻撃速度 -15%。
+Deep winter	深冬	厳冬
+Tower chill and freeze durations +60%.	防御塔寒冷与冻结持续时间 +60%。	タワーの冷却・凍結時間 +60%。
+Forked current	分叉电流	分岐電流
+Tesla gains two extra chain targets.	特斯拉额外连锁两个目标。	テスラの連鎖対象 +２体。
+Signal booster	信号增幅	信号増幅
+Relay aura radius +40%.	中继塔光环半径 +40%。	中継塔のオーラ半径 +40%。
+Protective signal	防护信号	防護信号
+Inside relay aura, player incoming damage -20%.	在中继光环内，玩家受到的伤害 -20%。	中継オーラ内でプレイヤーの被ダメージ -20%。
+Network dividend	网络分红	ネットワーク配当
+Extractors inside relay aura earn +20 credits per wave.	中继光环内的采集塔每波额外获得 20 金币。	中継オーラ内の採掘機は各ウェーブ +20コイン。
+Armored industry	装甲工业	装甲産業
+Extractors gain +100% base maximum health.	采集塔额外获得 100% 基础最大生命。	採掘機の基本最大HP +100%。
+Production line	流水生产	生産ライン
+Each extractor gains +5 income per other extractor, max +25.	每座采集塔按其他采集塔数量增加收入，每座 +5，上限 +25。	採掘機１台につき他の採掘機から収入 +５、最大 +25。
+Spiked rampart	尖刺壁垒	棘の防壁
+Bulwarks reflect an additional 50% incoming damage.	壁垒额外反弹 50% 所受伤害。	防壁が追加で被ダメージの50%を反射。
+Living wall	活体城墙	生きた壁
+Bulwarks regenerate 3 HP/s.	壁垒每秒恢复 3 生命。	防壁が毎秒HP３回復。
+Challenge beacon	挑战信标	挑戦の標
+Bulwark aggro radius +3m.	壁垒嘲讽半径 +3 米。	防壁の挑発半径 +３m。
+Maintenance drones	维修无人机	修理ドローン
+All towers regenerate 1.5 HP/s.	所有防御塔每秒恢复 1.5 生命。	全タワーが毎秒HP1.5回復。
+Efficient assembly	高效装配	効率的な組立
+Tower upgrade prices -20%, capped at 50%.	防御塔升级价格 -20%，折扣上限 50%。	タワー強化価格 -20%。割引上限50%。
+Dual chambers	双重弹膛	二重薬室
+Every third attacking tower hit deals +80% damage.	攻击塔每第三次命中伤害 +80%。	攻撃タワーの３回ごとの命中ダメージ +80%。
+White-hot embers	白热余烬	白熱の残り火
+Burn damage +50%.	燃烧伤害 +50%。	炎上ダメージ +50%。
+Slow-burning fuel	长燃燃料	持続燃料
+Burn lasts 2 seconds longer.	燃烧持续时间 +2 秒。	炎上時間 +２秒。
+Wildfire	野火	野火
+Burning enemies spread ignition to nearby enemies on death.	燃烧敌人死亡时向附近敌人传播燃烧。	炎上中の敵が倒れると周囲に炎上が広がる。
+Ash bomb	灰烬炸弹	灰の爆弾
+Burning enemies explode on death for 20 damage within 3m.	燃烧敌人死亡时爆炸，对 3 米内敌人造成 20 伤害。	炎上中の敵が倒れると３m以内に20ダメージの爆発。
+Concentrated toxin	浓缩毒素	濃縮毒
+Poison damage +50%.	毒伤害 +50%。	毒ダメージ +50%。
+Toxic reservoir	毒素储池	毒の貯蔵庫
+Maximum poison stacks +4.	毒层数上限 +4。	毒の最大スタック +４。
+Contagion	传染	感染
+Poisoned deaths transfer their stacks to enemies within 3m.	中毒敌人死亡时将毒层数传给 3 米内敌人。	毒状態の敵が倒れると３m以内の敵にスタックを移す。
+Open wounds	开放伤口	開いた傷
+Bleed damage +50%.	流血伤害 +50%。	出血ダメージ +50%。
+Blood scent	血腥气味	血の匂い
+Critical chance +20 points against bleeding enemies.	对流血敌人的暴击率增加 20 个百分点。	出血中の敵への会心率 +20ポイント。
+Brittle armor	脆化装甲	脆い装甲
+Chilled enemies take +20% direct damage.	寒冷敌人受到的直接伤害 +20%。	冷却中の敵が受ける直接ダメージ +20%。
+Glacial shards	冰河碎片	氷河の破片
+Frozen enemies explode on death for 24 damage within 3m.	冻结敌人死亡时对 3 米内敌人造成 24 伤害爆炸。	凍結中の敵が倒れると３m以内に24ダメージの爆発。
+High voltage	高压电流	高電圧
+Chain lightning damage +50%.	连锁闪电伤害 +50%。	連鎖雷撃ダメージ +50%。
+Arc extension	电弧延伸	電弧延長
+Lightning and ricochet jump radius +2m.	闪电与弹射的跳跃半径 +2 米。	雷撃と跳弾の跳躍半径 +２m。
+Catalytic combustion	催化燃烧	触媒燃焼
+Burn deals +50% damage to poisoned targets.	燃烧对中毒敌人的伤害 +50%。	毒状態の敵への炎上ダメージ +50%。
+Cauterizing blast	灼血爆击	焼灼打撃
+Hits on burning and bleeding enemies deal 12 bonus damage.	命中同时燃烧和流血的敌人时，额外造成 12 伤害。	炎上と出血が同時にある敵への命中に12追加ダメージ。
+Ionized toxin	离子毒素	イオン毒
+Lightning deals +50% damage to poisoned targets.	闪电对中毒敌人的伤害 +50%。	毒状態の敵への雷撃ダメージ +50%。
+Permafrost	永冻层	永久凍土
+Chill lasts +2 seconds.	寒冷持续时间 +2 秒。	冷却時間 +２秒。
+Prismatic core	棱镜核心	プリズム炉心
+All elemental damage +20%.	所有元素伤害 +20%。	全属性ダメージ +20%。
+Affliction hunter	异常猎手	異常狩り
+Direct damage +10% per distinct active ailment.	敌人每有一种不同异常状态，直接伤害 +10%。	敵の異なる状態異常１種類につき直接ダメージ +10%。
+Tri-element overload	三元过载	三属性過負荷
+Hits against burning, poisoned and chilled targets detonate for 45 area damage, 2s cooldown per enemy.	命中同时燃烧、中毒和寒冷的敌人时引发 45 范围伤害，每个敌人冷却 2 秒。	炎上・毒・冷却中の敵に命中すると45範囲ダメージ。敵ごとに２秒の間隔。
+Ember Covenant	烈焰契约	炎の契約
+Winterglass	寒霜之镜	冬の鏡
+Storm Circuit	雷电回路	嵐の回路
+Viridian Plague	翠毒疫潮	翠毒の疫病
+Crimson Rhythm	猩红节奏	深紅の律動
+Arsenal Protocol	军械协议	武装プロトコル
+Moonblade Order	月刃武道	月刃の流派
+Citadel Network	堡垒网络	砦ネットワーク
+Golden Industry	黄金工业	黄金産業
+Last Guardian	最后守护	最後の守護者
+Buy 	购买 	購入 
+
+Burn damage +25%.	燃烧伤害 +25%。	炎上ダメージ +25%。
+Burn lasts +1s. Burning deaths explode for +10 damage.	燃烧持续 +1 秒，燃烧死亡爆炸伤害 +10。	炎上時間 +１秒。炎上による死亡爆発ダメージ +10。
+Burn spreads on death (+1m if already learned). Burn damage +50%.	获得燃烧死亡扩散；已学会则半径 +1 米。燃烧伤害 +50%。	炎上が死亡時に拡散。習得済みなら半径 +１m。炎上ダメージ +50%。
+Chilled targets take +10% direct damage.	寒冷敌人受到的直接伤害 +10%。	冷却中の敵が受ける直接ダメージ +10%。
+Tower freeze duration +30%. Frozen deaths explode for +12 damage.	塔冻结持续 +30%，冻结死亡爆炸伤害 +12。	タワー凍結時間 +30%。凍結による死亡爆発ダメージ +12。
+Chilled targets take +20% more direct damage. Chill lasts +2s.	寒冷敌人受到的直接伤害再 +20%，寒冷持续 +2 秒。	冷却中の敵への直接ダメージがさらに +20%、冷却時間 +２秒。
+Chain lightning damage +25%.	连锁闪电伤害 +25%。	連鎖雷撃ダメージ +25%。
+Lightning jump radius +1m. Tesla gains one chain target.	闪电跳跃半径 +1 米，特斯拉额外连锁一个目标。	雷撃の跳躍半径 +１m。テスラの連鎖対象 +１体。
+Reloading releases a 20-damage nova. Lightning damage +50%.	装填触发 20 伤害电击，闪电伤害 +50%。	リロード時に20ダメージの電撃波。雷撃ダメージ +50%。
+Poison damage +25%.	毒伤害 +25%。	毒ダメージ +25%。
+Poison capacity +4. Poison transfers on death (+1m if already learned).	毒层上限 +4，获得死亡传毒；已学会则半径 +1 米。	毒の最大スタック +４。死亡時に毒が伝染し、習得済みなら半径 +１m。
+Tri-element overload gains 30 area damage. Poison damage +50%.	三元素过载额外造成 30 范围伤害，毒伤害 +50%。	三属性過負荷に30範囲ダメージ追加。毒ダメージ +50%。
+Bleed damage +25%.	流血伤害 +25%。	出血ダメージ +25%。
+Melee critical damage +50 points. Kills heal 1 HP.	近战暴击倍率增加 50 个百分点，击杀恢复 1 生命。	近接の会心倍率 +50ポイント。撃破ごとにHP１回復。
+Melee combo damage cap +40%. Bleeding targets grant +15% crit chance.	近战连击增伤上限 +40%，对流血敌人暴击率 +15 个百分点。	近接コンボの追加ダメージ上限 +40%。出血中の敵への会心率 +15ポイント。
+Gun spread -10%.	枪械散布 -10%。	銃の拡散 -10%。
+Magazine capacity +20%. Reload speed +15%.	弹夹容量 +20%，装填速度 +15%。	装弾数 +20%、リロード速度 +15%。
+Every fifth gun shot adds one free echo. Crit chance +10 points.	每第五次枪击额外免费回响一次，暴击率 +10 个百分点。	銃の５発ごとに無料の追加射撃１回。会心率 +10ポイント。
+Melee reach +0.3m.	近战射程 +0.3 米。	近接射程 +0.3m。
+Melee knockback +0.4m. Melee critical damage +50 points.	近战击退 +0.4 米，近战暴击倍率增加 50 个百分点。	近接ノックバック +0.4m、近接の会心倍率 +50ポイント。
+Melee combo damage cap +50%. Kills heal 1 HP.	近战连击增伤上限 +50%，击杀恢复 1 生命。	近接コンボの追加ダメージ上限 +50%。撃破ごとにHP１回復。
+Tower maximum health +15%.	防御塔最大生命 +15%。	タワーの最大HP +15%。
+Tower fire rate +15%. Tower attack range +10%.	塔攻速 +15%，攻击范围 +10%。	タワーの攻撃速度 +15%、攻撃範囲 +10%。
+Towers regenerate 2 HP/s. Every third tower hit deals +40% damage.	塔每秒恢复 2 生命，每第三次塔命中伤害 +40%。	タワーが毎秒HP２回復。３回ごとのタワー命中ダメージ +40%。
+Weapon/ammo and blueprint prices -5%.	武器、弹药和蓝图价格各 -5%。	武器・弾薬・設計図の価格 -５%。
+Wave reward +15%. Extractor networks gain +3 income per neighbour.	清波奖励 +15%，采集塔邻接产出系数 +3。	突破報酬 +15%。他の採掘機による収入係数 +３。
+Bank interest +3%. Relayed extractors earn +20 per wave.	银行利息 +3%，中继光环内的采集塔每波收入 +20。	利息 +３%。中継オーラ内の採掘機の収入 +20。
+Incoming player damage -5%.	玩家所受伤害 -5%。	プレイヤーの被ダメージ -５%。
+Gain 20 shield each wave. Regenerate 1 HP/s out of danger.	每波获得 20 护盾，脱战后每秒恢复 1 生命。	各ウェーブでシールド20を獲得。非被弾時に毎秒HP１回復。
+Taking damage emits a 12-damage pulse. One lethal rescue per wave restores 20 HP.	受伤释放 12 伤害脉冲，每波一次致命救援恢复 20 生命。	被弾時に12ダメージの衝撃波。各ウェーブ１回の致命傷救済でHP20回復。
+Graphics & audio	画面与音效	画面と音声
+Controls	操作提示	操作方法
+
+The expedition has ended.	本局已经结束。	この戦闘は終了しました。
+TAB supplies   R reload   E build   P pause	Tab 补给商店　R 装填　E 建造　P 暂停	Tab 補給所　R リロード　E 設置　P 一時停止
+Ash raider	灰烬掠夺者	灰の略奪者
+Rift hound	裂隙猎犬	裂け目の猟犬
+Iron guard	铁甲卫士	鉄甲の衛兵
+Frostwing	霜翼	霜の翼
+Rune caster	符文术士	ルーン術師
+Plague keeper	疫潮祭司	疫病の司祭
+Brood stalker	巢生潜行者	巣の徘徊者
+Ember carrier	余烬搬运者	残り火の運び手
+Ash warlord	灰烬领主	灰の将軍
+Ember Warden	余烬守望	残火の守り手
+Owned	已拥有	所有済み
+Credits	金币	コイン
+Melee weapons	近战武器	近接武器
+Automatic weapons	自动武器	自動火器
+Precision & shotguns	狙击与霰弹	狙撃・散弾銃
+ARMORY // INSPECT	武器库 ／ 装备详情	武器庫 ／ 詳細
+DEFENCE // INSPECT	防御工事 ／ 蓝图详情	防衛設備 ／ 詳細
+Price	价格	価格
+Health	生命值	耐久力
+Buy weapon	购买武器	武器を購入
+Buy blueprint	购买蓝图	設計図を購入
+Ammunition	弹药	弾薬
+No ammunition required	无需弹药	弾薬不要
+Close the shop, aim at grass and press E to deploy.	关闭商店，瞄准草地按 E 建造。	店を閉じ、草地に照準を合わせて E で設置。
+Fullscreen / F11	全屏显示 ／ F11	フルスクリーン ／ F11
+50 WAVES / ONE CITADEL / YOUR BUILD	50 波围攻 ／ 一座堡垒 ／ 你的流派	50 ウェーブ ／ 一つの砦 ／ 君だけのビルド
+FIRST-PERSON / TOWER DEFENCE / ROGUELIKE	第一人称 ／ 塔防 ／ 肉鸽	一人称 ／ タワーディフェンス ／ ローグライト
+Hold the last light.	守住最后一束光。	最後の光を守り抜け。
+Settings	游戏设置	設定
+Back to main menu	返回主页面	メインメニューへ
+Start game	开始游戏	ゲーム開始
+Quit game	退出游戏	ゲーム終了
+Battlefield	选择战场	戦場選択
+Build your arsenal. Shape your fortress. Survive the siege.	武装自己，构筑防线，在怪潮中守住堡垒。	武装を整え、防衛線を築き、包囲を生き延びろ。
+Mouse look   WASD move   SHIFT sprint   F5 new run   ESC pause	鼠标转向 ／ WASD 移动 ／ Shift 冲刺 ／ F5 重开 ／ Esc 暂停	マウス視点 ／ WASD 移動 ／ Shift ダッシュ ／ F5 リスタート ／ Esc 一時停止
+Return to battle	返回战场	戦闘に戻る
+LMB / E deploy   |   Wheel switch   |   Hold Q to select	左键／E 放置  ｜  滚轮切换  ｜  按住 Q 选择装备	左クリック／E 設置 ｜ ホイール切替 ｜ Q 長押しで選択
+LMB attack   |   Wheel switch   |   Hold Q to select	左键攻击  ｜  滚轮切换  ｜  按住 Q 选择装备	左クリック攻撃 ｜ ホイール切替 ｜ Q 長押しで選択
+Purchase in the TAB shop first.	请先在 Tab 商店购买。	先に Tab ショップで購入してください。
+TAB shop   R reload   Q equipment   P pause	Tab 商店 ／ R 装弹 ／ Q 装备选择 ／ P 暂停	Tab ショップ ／ R リロード ／ Q 装備選択 ／ P 一時停止
+Holding blueprint	手持蓝图	設計図を装備中
+Blueprint secured. Select it in equipment belt, then LMB deploy.	已购入蓝图，在装备栏选中后用左键放置。	設計図を購入。装備欄で選択し、左クリックで設置。
+Equipment: 1-7 weapons; 8,9,0,-,=,T towers. Wheel cycles owned items. Hold Q to click a slot. LMB attacks or deploys the held item.	装备操作：1～7 切换武器；8、9、0、-、=、T 切换防御塔。滚轮切换已有装备，按住 Q 可点击装备栏。左键使用手持武器或放置防御塔。	装備：1～7 は武器、8・9・0・-・=・T はタワー。ホイールで所有装備を切替。Q 長押しでスロットをクリック。左クリックで攻撃・設置。
+Augment codex	强化图鉴	強化図鑑
+All augments	全部强化	全強化
+Stat upgrades	数值强化	能力強化
+Mechanic upgrades	机制强化	特殊効果
+Ranged weapons	枪械强化	銃器強化
+Tower upgrades	防御塔强化	タワー強化
+Economy	经济成长	経済
+Survival	生存能力	生存能力
+Fire	燃烧流派	炎上
+Ice	冰冻流派	氷結
+Lightning	电击流派	雷撃
+Poison	中毒流派	毒
+Bleeding	流血流派	出血
+Penetration	穿透流派	貫通
+Element reactions	元素反应	元素反応
+All augments are visible here. Drafts only offer unpicked augments whose trigger requirements are met. Element reactions require every listed source.	图鉴展示全部强化。三选一只出现本局未选且满足前置条件的强化；元素反应需同时具备所列触发手段。	全強化を閲覧できます。選択候補には未取得かつ前提条件を満たす強化だけが出現。元素反応には記載の全属性が必要です。
+How to upgrade towers	防御塔升级指南	タワー強化ガイド
+Aim at an installed tower within 7m and press U, or open TAB > Installed towers and click Upgrade. Towers have three levels. Level 2 costs 75% of the base price; level 3 costs 125%, rounded down before discounts.	瞄准 7 米内已建造的塔按 U 升级；也可打开 Tab → 已建防御塔，点击升级。最高 3 级：升 2 级花费原价的 75%，升 3 级花费原价的 125%，折扣前向下取整。	7m 以内の設置済みタワーに照準を合わせ U。または Tab → 設置済みタワーで強化。最大 Lv3。Lv2 は基礎価格の75%、Lv3 は125%、割引前に切捨て。
+Each level adds 50% base HP, damage and extractor income, and 10% range. Relays gain 10 percentage points of aura per level. Upgrading preserves existing damage.	每升一级增加 50% 基础生命、伤害和采集塔收入，射程增加 10%；中继塔光环每级增加 10 个百分点。升级保留已受伤害。	各レベルで基礎耐久・ダメージ・採掘収入 +50%、射程 +10%。中継塔のオーラは各レベル +10ポイント。受けたダメージは引継ぎ。
+Income per wave	每波收入	ウェーブ収入
+Bulwarks have no innate damage reflection. Spiked rampart grants 50% reflection; Reactive armor grants 40% to all towers. These bonuses stack.	壁垒默认没有反伤。选择「尖刺壁垒」后反弹 50% 攻击伤害；「反应装甲」使所有塔反弹 40%，两者可叠加。	防壁に標準の反射効果はありません。「棘の防壁」で50%反射、「反応装甲」で全タワー40%反射。両者は加算。
+Set pieces	件套	セット
+Set members	套装成员	構成強化
+Search	搜索名称或效果	名前・効果を検索
+All rarities	全部品质	全レアリティ
+Showing %d augments	当前显示 %d 项强化	強化 %d 件を表示
+Base trigger	基础触发强化	属性の基礎強化
+View details	查看详情	詳細を見る
+Trigger requirements	出现前置条件	出現の前提条件
+This base augment adds an elemental trigger and needs no elemental prerequisite.	这是提供元素触发手段的基础强化，无需元素前置。	属性を発動させる基礎強化。属性の前提条件はありません。
+Requires at least one fire, ice, lightning, poison or bleeding source.	至少拥有一种燃烧、冰冻、电击、中毒或流血触发手段。	炎上・氷結・雷撃・毒・出血のいずれかの発動手段が必要。
+Requires fire, ice, poison or bleeding.	至少拥有一种燃烧、冰冻、中毒或流血触发手段。	炎上・氷結・毒・出血のいずれかの発動手段が必要。
+No elemental prerequisite.	无需元素前置。	属性の前提条件なし。
+Requires a Tesla blueprint or a living Tesla tower.	需拥有特斯拉塔蓝图，或场上存在存活的特斯拉塔。	テスラタワーの設計図、または生存中のテスラタワーが必要。
+Requires Glacial network, a Cryo blueprint or a living Cryo tower.	需「冰河网络」、冰冻塔蓝图，或场上存活的冰冻塔。	「氷河ネットワーク」、冷却塔の設計図、または生存中の冷却塔が必要。
+Requires lightning or Ricochet.	需电击触发手段，或已选择「弹射」。	雷撃の発動手段、または「跳弾」が必要。
+Fire source: Incendiary or Furnace turrets.	燃烧来源：燃烧弹药或熔炉炮塔。	炎上の発動：焼夷弾、または炉心タレット。
+Ice source: Cryo rounds, Glacial network or a Cryo tower/blueprint.	冰冻来源：冰霜弹药、冰河网络，或冰冻塔／蓝图。	氷結の発動：冷却弾、氷河ネットワーク、冷却塔／設計図。
+Lightning source: Static charge, Storm grid or a Tesla tower/blueprint.	电击来源：静电充能、风暴电网，或特斯拉塔／蓝图。	雷撃の発動：静電気、雷撃網、テスラタワー／設計図。
+Poison source: Venom or Toxic industry.	中毒来源：毒刃毒弹或毒化工业。	毒の発動：毒液、または毒性産業。
+Bleeding source: Serrated edge.	流血来源：锯齿刀锋。	出血の発動：鋸刃。
+Penetration source: Armor piercing.	穿透来源：穿甲贯穿。	貫通の発動：徹甲弾。
+Independent augment	不属于套装	独立した強化
+Defence / high health and taunt; requires augment to reflect	防御类：高血量与嘲讽，反伤需强化解锁	防御型：高耐久・挑発、反射は強化で解放
+Bulwarks gain reflection: return 50% of incoming attack damage.	壁垒获得反伤，反弹所受攻击伤害的 50%。	防壁が反射を獲得。受けた攻撃ダメージの50%を返す。
+Press U to upgrade / %d credits	按 U 升级 ／ %d 金币	U で強化 ／ %d コイン
+Maximum tower level	已达最高等级	最大レベル
+Aim at a tower within 7m and press U, or use TAB > Installed towers > Upgrade.	瞄准 7 米内防御塔按 U，或在 Tab → 已建防御塔 → 升级。	7m 以内のタワーに照準を合わせ U。または Tab → 設置済みタワー → 強化。
+Monster codex	怪物图鉴	モンスター図鑑
+Monsters	怪物档案	モンスター
+Field guide	采集与拆塔指南	探索・解体ガイド
+All monsters	全部怪物	全モンスター
+Mixed targets	常规与混合目标	通常・複合目標
+Bosses	首领	ボス
+Crystal only	只攻击水晶	水晶のみ
+Towers only	只攻击防御塔	タワーのみ
+Extractors only	只攻击采集塔	採掘塔のみ
+Players, towers and crystal	玩家、防御塔与水晶	プレイヤー・タワー・水晶
+Crystal runner	噬晶疾行者	水晶喰らい
+Siege breaker	攻城破塔者	破城の重兵
+Coin thief	掠金盗贼	金貨泥棒
+Approaches nearby players, otherwise follows the siege route.	会追击附近玩家，没有目标时沿路线进攻。	近くのプレイヤーを追い、目標がなければ侵攻経路を進む。
+Keep moving and use the knife against isolated raiders.	保持移动，用小刀解决落单敌人。	移動を続け、孤立した敵にはナイフを使う。
+Fast flanker with low health and a long player detection radius.	血量较低、移速快，能从更远处发现玩家。	低耐久・高速で、遠くのプレイヤーも発見する。
+Use slowing towers and close-range weapons.	用减速塔与近距离武器限制突袭。	減速タワーと近距離武器で対処。
+Heavy armor reduces non-piercing damage by 45%.	重甲使非贯穿伤害降低 45%。	重装甲により非貫通ダメージを45%軽減。
+Use Armor piercing or concentrate tower fire.	选择「穿甲贯穿」，或集中防御塔火力。	徹甲貫通を取得するか、タワーの火力を集中。
+Flies over terrain and dives toward visible players.	能够飞越地形，并向视野内玩家俯冲。	地形を飛び越え、視界内のプレイヤーへ急降下。
+Watch the sky and use ranged weapons.	留意空中，使用远程武器。	上空を警戒し、遠距離武器で対処。
+Attacks players or towers at range when line of sight is clear.	视线畅通时远程攻击玩家或防御塔。	射線が通ればプレイヤーやタワーを遠距離攻撃。
+Use cover and eliminate it before it starts casting.	利用掩体，优先击杀远程威胁。	遮蔽物を利用し、遠距離の脅威を優先排除。
+Restores 4 HP/s to enemies within 4m.	每秒为 4 米内敌人恢复 4 生命。	4m以内の敵を毎秒HP4回復。
+Focus the healer before fighting its group.	优先击杀治疗者，再清理周围敌人。	回復役を先に倒してから周囲を処理。
+Hunts towers from farther away and splits into two weak hounds on death.	能从更远处锁定防御塔，死亡后分裂为两只弱化猎犬。	遠くのタワーを狙い、死亡時に弱い猟犬2体へ分裂。
+Use area damage and protect exposed towers.	使用范围伤害，并保护外围防御塔。	範囲攻撃を使い、外側のタワーを守る。
+Carries explosives and causes an explosion when killed.	携带爆炸物，死亡时引发爆炸。	爆薬を運び、死亡時に爆発する。
+Fight it away from yourself and fragile towers.	在远离自身与脆弱防御塔的位置击杀。	自分や脆いタワーから離れた場所で倒す。
+Appears every fifth wave. Rotates between siege pulse, hound summons and self-healing.	每五波出现，依次轮换攻城脉冲、召唤猎犬和自我治疗三种机制。	5ウェーブごとに出現。攻城パルス・猟犬召喚・自己回復が交代する。
+Keep space for the pulse, clear summons and concentrate boss damage.	远离脉冲范围、清理召唤物，并集中对首领输出。	パルスから距離を取り、召喚を処理し、ボスへ火力集中。
+Ignores players, towers and taunts. Rushes the crystal along its route; a breach costs 2 core HP.	无视玩家、防御塔和嘲讽，沿路线直冲水晶；突破防线会扣除水晶 2 生命。	プレイヤー・タワー・挑発を無視して水晶へ進む。突破で水晶HPを2失う。
+Intercept early with slows and concentrated fire.	提前拦截，用减速与集中火力阻止突破。	早めに迎撃し、減速と集中攻撃で突破を阻止。
+Only attacks towers. Searches across the map, ignores players and never damages the crystal.	只攻击防御塔，会在地图上寻找目标并绕障；无视玩家，不会伤害水晶。	タワーだけを狙い、障害物を回り込んで探す。プレイヤーと水晶は攻撃しない。
+Use a Bulwark as bait and attack while it commits to a tower.	用壁垒承受攻击，在它拆塔时集火击杀。	防壁を囮にし、タワー攻撃中に集中攻撃。
+Only attacks extractors. Steals up to 6 credits per hit, carrying at most 60. Killing it recovers stolen credits; escape loses them.	只袭击采集塔，每次攻击最多偷取 6 金币，最多携带 60。击杀可追回赃款，逃离则损失金币。	採掘塔のみ攻撃。1回につき最大6コイン、最大60所持。倒すと奪還でき、逃走すると失う。
+Protect extractors and kill the thief before it escapes. Other towers cannot taunt it.	保护采集塔，并在盗贼逃离前击杀；其他塔无法嘲讽它。	採掘塔を守り、逃走前に倒す。他のタワーでは挑発できない。
+Target preferences are strict: crystal runners ignore taunts; siege breakers never attack players or the crystal; thieves only attack extractors.	目标偏好严格生效：噬晶疾行者无视嘲讽；攻城破塔者不攻击玩家或水晶；掠金盗贼只袭击采集塔。	目標は厳密に適用：水晶喰らいは挑発を無視、破城兵はプレイヤーと水晶を攻撃せず、泥棒は採掘塔だけを狙う。
+Base statistics scale with the preview wave. Spawn requirements and boss timing still apply.	可切换预览波次查看成长数值；实际出场仍受起始波次与首领规则限制。	プレビュー波で成長後の数値を確認。実際の出現波とボスの規則は別途適用。
+Preview wave	预览波次	プレビュー波
+First wave: %d	起始波次：%d	初出現：%d
+Movement speed	移速	移動速度
+Core breach	突破扣血	突破ダメージ
+Enemy mechanics	机制说明	行動・能力
+Counterplay	应对建议	対処法
+Bosses appear on waves 5, 10, 15 and so on. Siege pulse hits within 8m every 7s; other variants summon hounds or regenerate 4% HP.	首领出现在第 5、10、15 波等波次。攻城脉冲每 7 秒打击 8 米范围；其他变体会召唤猎犬，或每次恢复 4% 最大生命。	ボスは5・10・15波などに出現。攻城パルスは7秒ごとに8mへ攻撃。他の型は猟犬召喚、または最大HP4%を回復。
+Dismantle towers	拆除防御塔	タワー解体
+Dismantle +	拆除返还 +	解体返金 +
+Press X to dismantle / refund %d credits	按 X 拆除 ／ 返还 %d 金币	Xで解体 ／ %d コイン返金
+Aim at a tower within 7m and press X, or open TAB > Installed towers > Dismantle. Refunds return 60% of actual construction and upgrade spending, rounded down. Repair spending is excluded. Destroyed towers cannot be dismantled.	瞄准 7 米内的防御塔按 X，或打开 Tab → 已建防御塔 → 拆除。返还实际建造及升级支出的 60%，向下取整；维修费不计入。已摧毁的塔不能拆除返还。	7m以内のタワーに照準を合わせX、またはTab→設置済みタワー→解体。実際の建設・強化費用の60%を切捨て返金。修理費は対象外。破壊済みは解体不可。
+Resource points	地图采集点	採集ポイント
+Gold cache	金币藏匿点	金貨の隠し場所
+Battle shrine	战意祭坛	戦意の祭壇
+Wind shrine	疾风祭坛	疾風の祭壇
+Guardian shrine	守护祭坛	守護の祭壇
+Healing spring	治疗泉	回復の泉
+Each wave activates two gold caches and one blessing point. Walk within 2.2m and press F to collect. Each point can be collected once per wave. Active points are marked on the minimap.	每波激活两个金币点和一个祝福点，走到 2.2 米内按 F 采集。同一采集点每波只能领取一次，小地图标记当前可领取的位置。	各波で金貨2か所と祝福1か所が有効に。2.2m以内でFを押して採集。各地点は1波1回。ミニマップに有効地点を表示。
+Gold caches grant 20 credits, increasing by 2 per wave up to 40. Battle: weapon hit damage +25% for 20s. Wind: move speed +20% for 20s. Guardian: incoming damage -20% for 20s. Healing: restore 30 HP. Recollecting a blessing refreshes its duration without stacking its strength.	金币点初始提供 20 金币，每波增加 2，上限 40。战意：武器命中伤害 +25%，持续 20 秒；疾风：移速 +20%，20 秒；守护：承伤 -20%，20 秒；治疗泉：恢复 30 生命。再次获得同类祝福只刷新时间，不叠加强度。	金貨は初期20、波ごとに+2、最大40。戦意：武器命中ダメージ+25%・20秒。疾風：移動+20%・20秒。守護：被ダメージ-20%・20秒。泉：HP30回復。同じ祝福は時間のみ更新。
+Press F to collect	按 F 采集	Fで採集
+Collect %d credits	领取 %d 金币	%d コイン獲得
+Fury %.0fs	战意 %.0f 秒	戦意 %.0f秒
+Haste %.0fs	疾风 %.0f 秒	疾風 %.0f秒
+Ward %.0fs	守护 %.0f 秒	守護 %.0f秒
+Stolen credits carried: %d	携带赃款：%d 金币	盗んだコイン：%d
+Keep resource points clear.	请勿占用采集点。	採集地点を塞がないでください。
+Tower dismantled. Credits refunded: 	防御塔已拆除，返还金币：	タワー解体、返金：
+Gold cache collected: 	金币已领取：	金貨を獲得：
+A thief escaped with stolen credits: 	盗贼逃走，损失金币：	泥棒が逃走、失ったコイン：
+Battle blessing: weapon hit damage +25% for 20s.	战意祝福：武器命中伤害 +25%，持续 20 秒。	戦意の祝福：武器命中ダメージ +25%、20秒。
+Wind blessing: movement speed +20% for 20s.	疾风祝福：移速 +20%，持续 20 秒。	疾風の祝福：移動速度 +20%、20秒。
+Guardian blessing: incoming damage -20% for 20s.	守护祝福：承伤 -20%，持续 20 秒。	守護の祝福：被ダメージ -20%、20秒。
+Healing spring: restore 30 HP.	治疗泉：恢复 30 生命。	回復の泉：HP30回復。
+F collects nearby resource points. X dismantles the aimed tower within 7m and refunds 60% of construction and upgrade spending.	F 采集附近资源点；瞄准 7 米内的塔按 X 拆除，返还建造与升级实际支出的 60%。	Fで近くの資源を採集。7m以内のタワーに照準を合わせXで解体、建設・強化費の60%を返金。
+Weapon hits +25% / 20s	武器命中伤害 +25% ／ 20 秒	武器命中ダメージ +25% ／ 20秒
+Movement speed +20% / 20s	移动速度 +20% ／ 20 秒	移動速度 +20% ／ 20秒
+Incoming damage -20% / 20s	受到伤害 -20% ／ 20 秒	被ダメージ -20% ／ 20秒
+Restore 30 HP	恢复 30 生命	HP30回復
+Resource points only appear while living enemies remain. Preparation, empty intervals and wave-clear screens have no points. Collected points never respawn in the same wave.	采集点只在场上有存活怪物时出现；准备阶段、刷怪间隙无怪时和清波后全部隐藏。已领取的点在同一波不会重复生成。	採集地点は生きた敵がいる間だけ出現。準備中・敵のいない間隔・ウェーブ終了後は非表示。同じ波で採集済みの地点は再出現しません。
